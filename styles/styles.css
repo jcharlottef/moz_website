@@ -5,5 +5,5 @@ p {
 }
 
 body {
-  background-color: lightblue;
+  background-image: linear-gradient(lightblue, yellow);
 }
